@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Demo.Console/obj
+/Demo.Console.Test/obj
+/DemoTemplatePack/bin/Debug
+/DemoTemplatePack/obj/Debug
+/DemoTemplatePack/template/obj
