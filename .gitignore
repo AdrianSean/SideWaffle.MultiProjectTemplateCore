@@ -8,3 +8,5 @@
 /DemoTemplatePack/bin/Debug
 /DemoTemplatePack/obj/Debug
 /DemoTemplatePack/template/obj
+/Demo.Console/bin/Debug/netcoreapp2.1
+/Demo.Console.Test/bin/Debug/netcoreapp2.1
